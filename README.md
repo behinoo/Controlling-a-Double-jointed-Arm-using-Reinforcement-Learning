@@ -1,5 +1,6 @@
-# Controlling-a-Double-jointed-Arm-using-Reinforcement-Learning
-In this environment, a double-jointed arm can move to target locations.
+.# Controlling-a-Double-jointed-Arm-using-Reinforcement-Learning
+This project was inspired by Mahmood et al. [paper](https://arxiv.org/pdf/1803.07067.pdf)
+
 
 [//]: # (Image References)
 
