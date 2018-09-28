@@ -2,7 +2,7 @@
 This project was inspired by Mahmood et al. [paper](https://arxiv.org/pdf/1803.07067.pdf)
 
 ![Video][image3]
-[Training robotic arm to reach target location [YouTube](https://www.youtube.com/watch?v=ZVIxt2rt1_4)
+Training robotic arm to reach target location [YouTube](https://www.youtube.com/watch?v=ZVIxt2rt1_4)
 
 [//]: # (Image References)
 
