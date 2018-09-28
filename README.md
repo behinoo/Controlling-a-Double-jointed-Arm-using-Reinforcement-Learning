@@ -1,11 +1,14 @@
-.# Controlling-a-Double-jointed-Arm-using-Reinforcement-Learning
+## Controlling-a-Double-jointed-Arm-using-Reinforcement-Learning
 This project was inspired by Mahmood et al. [paper](https://arxiv.org/pdf/1803.07067.pdf)
 
+![Video][image3]
+[Training robotic arm to reach target location [YouTube](https://www.youtube.com/watch?v=ZVIxt2rt1_4)
 
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
 [image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
+[image3]: https://github.com/behinoo/Controlling-a-Double-jointed-Arm-using-Reinforcement-Learning/blob/master/Report/output-min.gif "Video"
 
 ### Introduction
 
