@@ -50,6 +50,10 @@ The second version is useful for algorithms like [PPO](https://arxiv.org/pdf/170
     
     (_For Windows users_) Check out [this link](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64) if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
 
+
+This project used some  of the components of the many components of the [codes](\href{https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum) provided by Udacity to solve OpenAI Gym's Pendulum environment.
+
+
 List of files: 
 - Continuous_Control.ipynb
 - ddpg_agent.py
